@@ -2,10 +2,16 @@
 
 
 <div style="display: inline_block"><br>
-<h3>No momento crio coisas com:
+<h3>No momento crio coisas usando:
+  <img align="center" alt="casali-html" height="30" width="40" src="https://img.icons8.com/color/48/000000/git.png">
+  <img align="center" alt="casali-html" height="30" width="40" src="https://img.icons8.com/ios-filled/50/000000/github.png">
   <img align="center" alt="casali-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="casali-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="casali-Js" height="30" width="40" src="https://img.icons8.com/color/48/000000/sass-avatar.png">
+  <img align="center" alt="casali-Js" height="30" width="40" src="https://img.icons8.com/color/48/000000/bootstrap.png">
   <img align="center" alt="casali-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="casali-Js" height="30" width="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-color-tal-revivo.png">
+   <img align="center" alt="casali-Js" height="30" width="40" src="https://img.icons8.com/color/48/000000/figma--v1.png">
 </div>
   
   ##
