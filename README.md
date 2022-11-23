@@ -1,5 +1,3 @@
-## Eaí, Me chamo Weslei Casali 👋
-
 
 <div style="display: inline_block"><br>
 <h3>No momento crio coisas usando:
@@ -11,7 +9,6 @@
   <img align="center" alt="casali-Js" height="40" width="40" src="https://img.icons8.com/color/48/000000/bootstrap.png">
   <img align="center" alt="casali-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="casali-Js" height="30" width="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-color-tal-revivo.png">
-   <img align="center" alt="casali-Js" height="30" width="40" src="https://img.icons8.com/color/48/000000/figma--v1.png">
 </div>
   
   ##
