@@ -1,5 +1,5 @@
 # 💫 About Me:
-*Dev Full Stack* <br><br>Atualmente desenvolvedor Front end na NOSTRA - Gestão de marcas 👨🏼‍💻<br>Acadêmico de Análise e Desenvolvimento de Sistemas 3º semestre 📕<br><br>Sou um amante da tecnologia e inspirado pela curiosidade!⚡
+*Dev Full Stack* <br><br>Atualmente desenvolvedor Full stack na NOSTRA - Gestão de marcas 👨🏼‍💻<br>Acadêmico de Análise e Desenvolvimento de Sistemas 3º semestre 📕<br><br>Sou um amante da tecnologia e inspirado pela curiosidade!⚡
 
 
 ## 🌐 Socials:
