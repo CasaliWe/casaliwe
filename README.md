@@ -1,5 +1,5 @@
 # 💫 SOBRE MIM:
-*Dev Full Stack* <br><br>Atualmente desenvolvedor Full Stack na NOSTRA - Gestão de marcas 👨🏼‍💻<br>Acadêmico de Análise e Desenvolvimento de Sistemas 4º semestre 📕<br><br>Sou um amante da tecnologia e inspirado pela curiosidade!⚡
+*Dev Full Stack* <br><br>Atualmente desenvolvedor Full Stack na NOSTRA - Gestão de marcas 👨🏼‍💻<br>Formado em Análise e Desenvolvimento de Sistemas pela Anhanguera 2022-2024 📕<br><br>Sou um amante da tecnologia e inspirado pela curiosidade!⚡
 
 
 ## 🌐 Socials:
